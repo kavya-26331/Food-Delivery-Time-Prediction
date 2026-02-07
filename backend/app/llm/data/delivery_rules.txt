@@ -1,0 +1,4 @@
+Delivery Rules:
+- Riders must wear helmets.
+- Deliver within 45 minutes.
+- No contactless delivery for high-value orders.

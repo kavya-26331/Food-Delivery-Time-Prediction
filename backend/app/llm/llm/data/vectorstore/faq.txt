@@ -1,0 +1,6 @@
+Q: How to place an order?
+A: Select a restaurant, choose items, and confirm checkout.
+Q: Can I track my order?
+A: Yes, use the tracking feature in the app.
+Q: What payment methods are available?
+A: Credit card, debit card, and digital wallets.

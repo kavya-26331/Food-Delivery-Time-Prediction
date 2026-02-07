@@ -1,0 +1,8 @@
+Q: How do I place an order?
+A: Go to the app, select your food, and checkout.
+
+Q: What is the delivery time?
+A: Delivery time depends on distance and weather.
+
+Q: How to cancel an order?
+A: Contact support within 5 minutes.
